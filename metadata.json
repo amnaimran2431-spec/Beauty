@@ -1,0 +1,7 @@
+{
+  "name": "Rukash Beauty Salon",
+  "description": "Premium beauty, bridal salon, hair styling, and skincare on MM Alam Road, Gulberg III, Lahore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
